@@ -50,6 +50,8 @@ export default new Map([
         alias: 'amazon-adsystem.com/aax2/amzn_ads.js',
         data: 'text',
     } ],
+    [ 'admiral.js', {
+    } ],
     [ 'amazon_apstag.js', {
     } ],
     [ 'ampproject_v0.js', {
